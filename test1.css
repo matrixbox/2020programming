@@ -1,0 +1,33 @@
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 50%;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+
+th {
+	background-color: lightgrey;
+}
+
+#top {
+	font-size: 36px;
+	color: red;
+}
+
+#middle {
+	font-size: 24px;
+}
+
+#bottom {
+	font-size: 12px;
+}
+
+.name {
+	font-weight: bold;
+	color: blue;
+}
